@@ -9,3 +9,5 @@ _Exercise & Submission for Dicoding MLOps_
 ### 3 - Model Serving TFServing
 
 ### 4 - Submission-1 (ML-Pipeline Stress Detection)
+
+### 5 - TFX Churn Pipeline
