@@ -11,3 +11,5 @@ _Exercise & Submission for Dicoding MLOps_
 ### 4 - Submission-1 (ML-Pipeline Stress Detection)
 
 ### 5 - TFX Churn Pipeline
+
+### 6 - Submission-2 (ML-Pipeline AIDS Detection, Deployed to PaaS)
